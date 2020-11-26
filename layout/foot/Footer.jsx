@@ -24,7 +24,7 @@ function Footer() {
               href="https://github.com/dyarfi/nextjs-reactstrap"
               className="text-dark"
             >
-              <i class="fab fa-github"></i> github.
+              <i className="fab fa-github"></i> github.
             </a>
           </small>
         </li>
